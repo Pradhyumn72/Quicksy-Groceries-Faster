@@ -1,0 +1,45 @@
+/* src/Components/Topmenu.css */
+
+/* keep the carousel clear of the fixed navbar (adjust if needed) */
+.hero-carousel {
+    margin-top: 0.5rem;
+  }
+  
+  /* force every picture to fill the frame without stretching */
+  .hero-img {
+    height: 70vh;          /* 70 % of viewport height – tweak to taste */
+    object-fit: cover;     /* crops rather than distorts */
+  }
+  
+  /* optional caption styling */
+  .carousel-caption {
+    bottom: 2.5rem;
+    background: rgba(0, 0, 0, 0.45);
+    padding: 0.75rem 1.25rem;
+    border-radius: 0.35rem;
+  }
+  
+  /* make the arrows bigger & always visible on light images */
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    width: 2.5rem;
+    height: 2.5rem;
+    filter: invert(1);     /* turns them white */
+  }
+  
+  /* indicator bars (little rectangles like in your reference) */
+  .carousel-indicators [data-bs-target] {
+    width: 2.5rem;
+    height: 0.25rem;
+    background-color: #888;
+  }
+  .carousel-indicators .active {
+    background-color: #000;
+  }
+  
+  /* responsive tweak for small screens */
+  @media (max-width: 768px) {
+    .hero-img       { height: 55vh; }
+    .carousel-caption h5 { font-size: 1.25rem; }
+  }
+  
