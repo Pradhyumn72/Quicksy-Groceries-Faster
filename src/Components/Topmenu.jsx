@@ -1,8 +1,10 @@
 // src/Components/Topmenu.jsx
 import Carousel from "react-bootstrap/Carousel";
-import slide1 from "../Images/Slide1.png";   // <–– import, don’t use a raw path
-import slide2 from "../Images/Slide2.png";
-import slide3 from "../Images/Slide3.png";
+import slide1 from "../Images/Slidee1.png";   // <–– import, don’t use a raw path
+import slide2 from "../Images/Slidee2.png";
+import slide3 from "../Images/Slidee3.png";
+import Slider from "./Slider";
+
 // import "Top.css";
 
 const Topmenu = () => (
@@ -20,7 +22,10 @@ const Topmenu = () => (
         
       </Carousel.Item>
     ))}
+   
   </Carousel>
+
+
 );
 
 export default Topmenu;
