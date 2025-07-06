@@ -1,0 +1,175 @@
+{
+    "essentials": [
+      {
+        "id": 1,
+        "title": "Organic Whole Wheat Atta",
+        "desc": "Freshly ground whole wheat flour, rich in fiber and nutrients.",
+        "price": 295,
+        "brand": "24 Mantra Organic",
+        "image": "/whole-wheat-atta.jpg",
+        "quantity": 1
+      },
+      {
+        "id": 2,
+        "title": "Toor Dal (Arhar Dal)",
+        "desc": "Protein-rich split pigeon peas. Ideal for Indian dals.",
+        "price": 180,
+        "brand": "Tata Sampann",
+        "image": "/toor-dal.jpg",
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "title": "Fortune Sunflower Oil - 1L",
+        "desc": "Refined sunflower oil with a light taste.",
+        "price": 145,
+        "brand": "Fortune",
+        "image": "/sunflower-oil.jpg",
+        "quantity": 1
+      },
+      {
+        "id": 4,
+        "title": "Amul Taaza Milk - 1L",
+        "desc": "Toned milk with rich taste and nutrition.",
+        "price": 64,
+        "brand": "Amul",
+        "image": "/amul-taaza.jpg",
+        "quantity": 1
+      },
+      {
+        "id": 5,
+        "title": "Aashirvaad Iodized Salt - 1kg",
+        "desc": "Pure, iodized salt to support thyroid health.",
+        "price": 20,
+        "brand": "Aashirvaad",
+        "image": "/salt.jpg",
+        "quantity": 1
+      },
+      {
+        "id": 6,
+        "title": "Sona Masoori Rice - 5kg",
+        "desc": "Lightweight aromatic rice for everyday use.",
+        "price": 325,
+        "brand": "India Gate",
+        "image": "/sona-masoori.jpg",
+        "quantity": 1
+      }
+    ],
+    "snacks": [
+      {
+        "id": 7,
+        "title": "Parle-G Family Pack - 800g",
+        "desc": "Classic glucose biscuits loved across India.",
+        "price": 60,
+        "brand": "Parle",
+        "image": "/parle-g.jpg",
+        "quantity": 1
+      },
+      {
+        "id": 8,
+        "title": "Lay’s Magic Masala - 90g",
+        "desc": "Spicy and tangy potato chips packed with flavor.",
+        "price": 30,
+        "brand": "Lay’s",
+        "image": "/lays-masala.jpg",
+        "quantity": 1
+      },
+      {
+        "id": 9,
+        "title": "Haldiram's Bhujia - 400g",
+        "desc": "Crispy spicy snack made with gram flour and spices.",
+        "price": 110,
+        "brand": "Haldiram's",
+        "image": "/bhujia.jpg",
+        "quantity": 1
+      }
+    ],
+    "beverages": [
+      {
+        "id": 10,
+        "title": "Tata Tea Gold - 500g",
+        "desc": "Strong and rich blend of Assam and long leaf tea.",
+        "price": 245,
+        "brand": "Tata",
+        "image": "/tata-tea.jpg",
+        "quantity": 1
+      },
+      {
+        "id": 11,
+        "title": "Bru Instant Coffee - 200g",
+        "desc": "Premium blend of coffee and chicory for rich aroma.",
+        "price": 160,
+        "brand": "Bru",
+        "image": "/bru-coffee.jpg",
+        "quantity": 1
+      },
+      {
+        "id": 12,
+        "title": "Real Fruit Juice - Orange 1L",
+        "desc": "No added preservatives, made from real oranges.",
+        "price": 105,
+        "brand": "Real",
+        "image": "/real-orange.jpg",
+        "quantity": 1
+      }
+    ],
+    "fruits": [
+      {
+        "id": 13,
+        "title": "Bananas (Robusta) - 1 Dozen",
+        "desc": "Sweet, ripe, and rich in potassium.",
+        "price": 60,
+        "brand": "QuickSy Fresh",
+        "image": "/banana.jpg",
+        "quantity": 1
+      },
+      {
+        "id": 14,
+        "title": "Apples (Shimla) - 1kg",
+        "desc": "Crisp and juicy apples straight from the hills.",
+        "price": 150,
+        "brand": "QuickSy Fresh",
+        "image": "/apple.jpg",
+        "quantity": 1
+      },
+      {
+        "id": 15,
+        "title": "Watermelon - 1pc (2-3kg)",
+        "desc": "Hydrating and refreshing, perfect for summer.",
+        "price": 90,
+        "brand": "QuickSy Fresh",
+        "image": "/watermelon.jpg",
+        "quantity": 1
+      }
+    ],
+    "household": [
+      {
+        "id": 16,
+        "title": "Harpic Toilet Cleaner - 500ml",
+        "desc": "Removes tough stains and 99.9% germs.",
+        "price": 68,
+        "brand": "Harpic",
+        "image": "/harpic.jpg",
+        "quantity": 1
+      },
+      {
+        "id": 17,
+        "title": "Surf Excel Matic - 1kg",
+        "desc": "Top load washing powder for superior stain removal.",
+        "price": 210,
+        "brand": "Surf Excel",
+        "image": "/surf-excel.jpg",
+        "quantity": 1
+      },
+      {
+        "id": 18,
+        "title": "Lizol Floor Cleaner - 975ml",
+        "desc": "Cleans and disinfects surfaces with a pleasant scent.",
+        "price": 175,
+        "brand": "Lizol",
+        "image": "/lizol.jpg",
+        "quantity": 1
+      }
+    ]
+  }
+  
